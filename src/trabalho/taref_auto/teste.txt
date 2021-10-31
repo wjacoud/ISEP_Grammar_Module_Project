@@ -1,0 +1,10 @@
+1 Consulta/Obtenção
+    número de cliente: 1111045 (informação sobre clientes para obter o escalão de rapel que lhe está associado)
+    identificador do produto: bananas (obter o preço base de comercialização)
+2 Cálculos Matemáticos
+    4+3
+3 Envio de emails
+    remetente: Helder_Costa-azevedo@gmail_sub.meee, 1111045@gmail.com
+    assunto: Assunto do e-mail
+    corpo_msg: Corpo da mensagem Valor Total: {{$vt}}€
+4 Integração

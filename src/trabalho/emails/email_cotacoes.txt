@@ -1,0 +1,8 @@
+from: tarefas_auto@isep.ipp.pt 
+to: cotacoes_descontos@isep.ipp.pt 
+subject: Requerer cotacao para venda por grosso  
+Date_Time: 20/06/2021 08:59
+1.1Produto:Leite
+1.2Quantidade:33
+1.3Preco:10.0
+1.4Iva:23

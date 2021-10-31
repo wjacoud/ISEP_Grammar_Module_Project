@@ -1,0 +1,6 @@
+from: tarefas_auto@isep.ipp.pt 
+to: recursos_humanos@isep.ipp.pt 
+subject: Alteracao de NIB  
+Date_Time: 20/06/2021 08:59
+1.1indicarorespetivoIBAN:PT50AAAA03100003733770013
+1.2adicionarumficheirocomprovativoemcomoesseNIBeseu:PDF

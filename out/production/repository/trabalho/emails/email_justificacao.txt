@@ -1,0 +1,6 @@
+from: tarefas_auto@isep.ipp.pt 
+to: coordenacao@isep.ipp.pt 
+subject: Justificar falta ja ocorrida 
+Date_Time: 20/06/2021 08:59
+2.1indicardia:25/12/2021
+2.2justificacao:Justificacaodefalta

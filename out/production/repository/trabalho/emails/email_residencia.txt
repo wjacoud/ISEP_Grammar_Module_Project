@@ -1,0 +1,6 @@
+from: tarefas_auto@isep.ipp.pt 
+to: recursos_humanos@isep.ipp.pt 
+subject: Alteracao de residencia  
+Date_Time: 20/06/2021 08:59
+2.1indicarnovamorada:RuadeCima
+2.2adicionarumficheirocomprovativomorada:PDF

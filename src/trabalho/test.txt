@@ -1,0 +1,56 @@
+Reportar Erro
+1 Reportar anomalia de comunicacao
+1.1 o tipo de anomalia: grave
+1.2 o tipo de equipamento: switch
+1.3 o numero de imobilizado do equipamento: ISEP-999-LX
+1.4 uma descricao da anomalia: Descricao
+1.5 opcionalmente anexos que evidenciem a anomalia em causa: PDF
+
+2 Reportar anomalia em equipamento
+2.1 o tipo de anomalia: grave
+2.2 o tipo de equipamento: smartphone
+2.3 o numero de imobilizado do equipamento: ISEP-001-PRT
+2.4 uma descricao da anomalia: Erro ao Ligar
+2.5 opcionalmente anexos que evidenciem a anomalia em causa: jpeg
+
+3 Reportar anomalia em aplicacao
+3.1 o tipo de anomalia: muitograve
+3.2 o tipo de equipamento: VOIP
+3.3 o numero de imobilizado do equipamento: ISEP-999-LX
+3.4 uma descricao da anomalia: breve descricao
+3.5 opcionalmente anexos que evidenciem a anomalia em causa: PDF
+
+Cotacoes e Descontos
+1 Requerer cotacao para venda por grosso
+1.1 Produto: Leite
+1.2 Quantidade: 33
+1.3 Preco: 10.0
+1.4 Iva: 23
+
+2 Solicitar autorizacao para aplicacao de desconto financeiro
+2.1 Produto: Banana
+2.2 Quantidade: 1
+2.3 Preco: 01.2
+2.4 Desconto: 25
+
+Alteracao Dados Pessoais
+1 Alteracao de NIB
+1.1 indicar o respetivo IBAN: PT50AAAA03100003733770013
+1.2 adicionar um ficheiro comprovativo em como esse NIB e seu: PDF
+2 Alteracao de residencia
+2.1 indicar nova morada: Rua de Cima
+2.2 adicionar um ficheiro comprovativo morada: PDF
+3 Alteracao de estado civil para efeitos de IRS
+3.1 indicar novo estado civil: Solteiro
+4 Atualizacao de habilitacoes literarias
+4.1 novo nivel habilitacoes literarias: Licenciatura
+
+Ferias e Justificacoes
+1 Marcar ferias
+1.1 indicar dias de ferias : 12/07/2021
+2 Justificar falta ja ocorrida
+2.1 indicar dia : 25/12/2021
+2.2 justificacao : Justificacao de falta
+3 Informar ausencia futura
+3.1 indicar dias : 20/21/2022
+3.2 motivo : Motivo de ausencia

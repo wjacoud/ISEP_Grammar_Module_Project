@@ -1,0 +1,5 @@
+from: tarefas_auto@isep.ipp.pt 
+to: coordenacao@isep.ipp.pt 
+subject: Marcar ferias 
+Date_Time: 20/06/2021 08:59
+1.1indicardiasdeferias:12/07/2021

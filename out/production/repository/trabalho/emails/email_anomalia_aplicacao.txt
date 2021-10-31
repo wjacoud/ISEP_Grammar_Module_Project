@@ -1,0 +1,9 @@
+from: tarefas_auto@isep.ipp.pt 
+to: anomalia_aplicacao@isep.ipp.pt 
+subject: Reportar Anomalia de aplicacao  
+Date_Time: 20/06/2021 08:59
+3.1otipodeanomalia:muitograve
+3.2otipodeequipamento:VOIP
+3.3onumerodeimobilizadodoequipamento:ISEP-999-LX
+3.4umadescricaodaanomalia:brevedescricao
+3.5opcionalmenteanexosqueevidenciemaanomaliaemcausa:PDF

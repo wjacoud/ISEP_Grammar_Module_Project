@@ -1,0 +1,5 @@
+from: tarefas_auto@isep.ipp.pt 
+to: recursos_humanos@isep.ipp.pt 
+subject: Atualizacao de habilitacoes literarias 
+Date_Time: 20/06/2021 08:59
+4.1novonivelhabilitacoesliterarias:Licenciatura

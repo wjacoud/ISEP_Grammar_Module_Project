@@ -1,0 +1,5 @@
+from: tarefas_auto@isep.ipp.pt 
+to: recursos_humanos@isep.ipp.pt 
+subject: Alteracao de estado civil para efeitos de IRS  
+Date_Time: 20/06/2021 08:59
+3.1indicarnovoestadocivil:Solteiro

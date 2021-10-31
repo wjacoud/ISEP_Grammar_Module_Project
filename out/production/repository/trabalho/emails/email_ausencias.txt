@@ -1,0 +1,6 @@
+from: tarefas_auto@isep.ipp.pt 
+to: coordenacao@isep.ipp.pt 
+subject: Informar ausencia futura 
+Date_Time: 20/06/2021 08:59
+3.1indicardias:20/21/2022
+3.2motivo:Motivodeausencia

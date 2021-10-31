@@ -1,0 +1,9 @@
+from: tarefas_auto@isep.ipp.pt 
+to: anomalia_comunicacao@isep.ipp.pt 
+subject: Reportar Anomalia de Comunicação  
+Date_Time: 20/06/2021 08:59
+1.1otipodeanomalia:grave
+1.2otipodeequipamento:switch
+1.3onumerodeimobilizadodoequipamento:ISEP-999-LX
+1.4umadescricaodaanomalia:Descricao
+1.5opcionalmenteanexosqueevidenciemaanomaliaemcausa:PDF

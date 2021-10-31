@@ -1,0 +1,9 @@
+from: tarefas_auto@isep.ipp.pt 
+to: anomalia_equipamento@isep.ipp.pt 
+subject: Reportar Anomalia de equipamento  
+Date_Time: 20/06/2021 08:59
+2.1otipodeanomalia:grave
+2.2otipodeequipamento:smartphone
+2.3onumerodeimobilizadodoequipamento:ISEP-001-PRT
+2.4umadescricaodaanomalia:ErroaoLigar
+2.5opcionalmenteanexosqueevidenciemaanomaliaemcausa:jpeg

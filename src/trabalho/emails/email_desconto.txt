@@ -1,0 +1,8 @@
+from: tarefas_auto@isep.ipp.pt 
+to: cotacoes_descontos@isep.ipp.pt 
+subject: Solicitar autorizacao para aplicacao de desconto financeiro  
+Date_Time: 20/06/2021 08:59
+2.1Produto:Banana
+2.2Quantidade:1
+2.3Preco:01.2
+2.4Desconto:25

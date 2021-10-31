@@ -1,0 +1,55 @@
+Reportar Erro
+1 Reportar anomalia de comunicacao
+1.1 o tipo de anomalia: grave
+1.2 o tipo de equipamento : aasdas
+1.3 o numero de imobilizado do equipamento:
+1.4 uma descricao da anomalia:
+1.5 opcionalmente anexos que evidenciem a anomalia em causa:
+
+2 Reportar anomalia em equipamento
+	    	2.1 o tipo de anomalia: avaria grave
+            	2.2 o tipo de equipamento:
+            	2.3 o numero de imobilizado do equipamento:
+            	2.4 uma descricao da anomalia:
+            	2.5 opcionalmente anexos que evidenciem a anomalia em causa:
+	3 Reportar anomalia em aplicacao
+	    	3.1 o tipo de anomalia: avaria grave
+            	3.2 o tipo de equipamento:
+            	3.3 o numero de imobilizado do equipamento:
+            	3.4 uma descricao da anomalia:
+            	3.5 opcionalmente anexos que evidenciem a anomalia em causa:
+
+Cotacoes e Descontos
+	1 Requerer cotacao para venda por grosso
+		1.1 Produto :
+		1.2 Quantidade :
+		1.3 Preco :
+		1.4 Iva :
+
+	2 Solicitar autorizacao para aplicacao de desconto financeiro
+		2.1 Produto :
+		2.2 Quantidade :
+		2.3 Preco :
+		2.4 Desconto :
+
+Alteracao Dados Pessoais
+	1 Alteracao de NIB
+	    1.1 indicar o respetivo NIB :
+	    1.2 adicionar um ficheiro comprovativo em como esse NIB e seu :
+	2 Alteracao de residencia
+	    2.1 indicar nova morada :
+	    2.1 adicionar um ficheiro comprovativo morada :
+	3 Alteracao de estado civil para efeitos de IRS
+	    3.1 indicar novo estado civil :
+	4 Atualizacao de habilitacoes literarias
+	    4.1 novo nivel habilitacoes literarias :
+
+Ferias e Justificacoes
+	1 Marcar ferias
+	    1.1 indicar dias de ferias :
+	2 Justificar falta ja ocorrida
+	    2.1 indicar dia :
+	    2.2 justificacao :
+	3 Informar ausencia futura
+	    3.1 indicar dias : 
+	    3.2 motivo : 
